@@ -1,8 +1,5 @@
 # best-practices-and-data-sources
 
-# Newsletters
-One PhD student’s curated list of 21 newsletters to help you keep up with AI news and research [Here](https://medium.com/@andreykurenkov/the-best-ai-newsletters-483dc75134b)
-
 ## CMIP6 scenarios and emissions
 
 The shared socio-economic pathway (SSP) greenhouse gas concentrations and their extensions to 2500 [Meinshausen et al.](https://doi.org/10.5194/gmd-13-3571-2020).
